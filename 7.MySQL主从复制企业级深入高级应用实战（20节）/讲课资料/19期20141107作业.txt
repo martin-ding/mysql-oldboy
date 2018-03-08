@@ -1,0 +1,9 @@
+
+
+课后作业：
+1、mysql出现同步延迟原因是什么？如何解决？
+2、数据库的读写分离软件,mysql-proxy,amoeba（刘磊）
+3、mysql-mmm 高可用软件（陈权）。
+4、mysql半同步应用，xtrabackup物理备份(王廷)
+5、mysql+heartbeat+drbd高可用（汤莹）
+ http://oldboy.blog.51cto.com/2561410/1240412
